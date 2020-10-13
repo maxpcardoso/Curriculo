@@ -1,0 +1,30 @@
+#principal h1 {
+    background-color: silver;
+    font-size: 50px;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#texto h1 {
+    margin-left: 20px;
+    /* padding-left: 120px; */
+    /* padding-right: 850px; */
+    text-align: justify;
+    color: teal;
+    margin-left: 20px;
+    font-size: 25px;
+
+}
+img    {
+    border-radius: 20%;
+}
+
+#final h1 {
+    font-size: 19px;
+    padding-top: 150px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.row:hover > .box1 { background-color: #F2D727; }
